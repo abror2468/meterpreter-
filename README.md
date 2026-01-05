@@ -1,6 +1,7 @@
 # meterpreter-
 <img width="107" height="42" alt="image" src="https://github.com/user-attachments/assets/5e3b4528-bc8a-428f-bd01-4ec116ec5713" />
-also remember sessions -u for the sessions you want to turn into metasploit
+# also remember sessions -u for the sessions you want to turn into metasploit
+# Also MSFconfig
 
 
 <img width="775" height="813" alt="image" src="https://github.com/user-attachments/assets/fbda033f-e5cd-4c88-b0f1-b0ceff08aa90" />
